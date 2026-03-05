@@ -41,9 +41,8 @@ For the full shelf experience, open the **Shelf Device** link in a second tab fi
 │   ├── 1_clean_typed.png           ← Clean, typed format
 │   ├── 2_handwritten_messy.png     ← Handwritten doctor's note
 │   ├── 3_misspelled_smudged.png    ← Typos + ink smudge
-│   ├── 4_abbreviated_shorthand.png ← Medical shorthand (#30 format)
-│   ├── 5_low_quality_photo.png     ← Low quality, noisy photo
-│   └── 6_table_format.png          ← Structured table layout
+│   ├── 4_low_quality_photo.png     ← Low quality, noisy photo
+│   └── 5_table_format.png          ← Structured table layout
 └── README.md                       ← You're reading this
 ```
 
@@ -56,9 +55,8 @@ For the full shelf experience, open the **Shelf Device** link in a second tab fi
 | 1 | `1_clean_typed.png` | Clean, typed | Amoxicillin, Ibuprofen, Omeprazole |
 | 2 | `2_handwritten_messy.png` | Handwritten | Metformin, Lisinopril, Aspirin |
 | 3 | `3_misspelled_smudged.png` | Typos + smudge | Codeine, Omeprazole, Cetirizine |
-| 4 | `4_abbreviated_shorthand.png` | Shorthand, # qty | Lisinopril, Alprazolam, Cetirizine, Prednisone |
-| 5 | `5_low_quality_photo.png` | Low quality photo | Amoxicillin, Lorazepam, Prednisone |
-| 6 | `6_table_format.png` | Table layout | Amoxicillin, Ibuprofen, Cetirizine, Prednisone |
+| 4 | `4_low_quality_photo.png` | Low quality photo | Amoxicillin, Lorazepam, Prednisone |
+| 5 | `5_table_format.png` | Table layout | Amoxicillin, Ibuprofen, Cetirizine, Prednisone |
 
 ---
 

@@ -89,9 +89,9 @@ For the full shelf experience, open the **Shelf Device** link in a second tab fi
 
 | Repo | What |
 |------|------|
-| [medilight-dashboard](https://github.com/YOUR_USERNAME/medilight-dashboard) | React frontend — 5-step workflow, inventory CRUD, order history |
-| [medilight-backend](https://github.com/YOUR_USERNAME/medilight-backend) | Express API — Gemini proxy, PostgreSQL, WebSocket, Swagger |
-| [medilight-shelf](https://github.com/YOUR_USERNAME/medilight-shelf) | LED digital twin — WebSocket shelf device simulation |
+| [medilight-dashboard](https://github.com/Namrata-Modha/medilight-dashboard) | React frontend — 5-step workflow, inventory CRUD, order history |
+| [medilight-backend](https://github.com/Namrata-Modha/medilight-backend) | Express API — Gemini proxy, PostgreSQL, WebSocket, Swagger |
+| [medilight-shelf](https://github.com/Namrata-Modha/medilight-shelf) | LED digital twin — WebSocket shelf device simulation |
 
 ---
 
